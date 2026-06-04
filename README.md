@@ -26,7 +26,7 @@ Below is the physical wiring setup used for this assignment.
 ## Files
 - `main.c` — CAN communication code
 - `FDCAN_Com_Polling.ioc` — STM32CubeMX project file
-- `HW14.jpg` — physical wiring photo
+- `HW12.jpg` — physical wiring photo
 
 ## Demonstration
 When the USER button on one board is pressed:
